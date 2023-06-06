@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aer0o
+- 👋 Hi, I’m Oleg
 - 👀 I’m interested in Game Programming and specifically in gameplay and AI development.
 - 🌱 I’m currently learning C++ and Unreal Game Engine.
 - 💞️ I’m looking to collaborate on game projects. Looking for any opportunities to work in the field and interested to try every type of Game Development. 
